@@ -21,7 +21,7 @@ WanderStay is a full-stack web application inspired by Airbnb, built using the M
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML
+- EJS
 - CSS
 - Bootstrap 
 
