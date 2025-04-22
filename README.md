@@ -41,9 +41,8 @@ WanderStay is a full-stack web application inspired by Airbnb, built using the M
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wanderstay.git
-   cd wanderstay
+## Contact
+For any queries or suggestions, feel free to reach out:
+- **Name**: Vedant Nikam
+- **Email**: [nikam.vedant05@gmail.com]
+- **GitHub**: [https://github.com/Vednik123](https://github.com/Vednik123)
